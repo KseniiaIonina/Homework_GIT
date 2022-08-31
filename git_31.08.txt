@@ -1,0 +1,5 @@
+  Ветка - создается копия проекта, в которой можно работать независимо и вносить изменения в проект
+1. Git branch develop
+2. Git checkout develop
+3. Git branch -v
+4. Git branch -d develop
